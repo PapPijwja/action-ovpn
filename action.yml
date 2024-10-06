@@ -1,7 +1,9 @@
 name: 'Setup OpenVPN connection'
 description: 'Connect Github Actions to VPN'
 author: nanopx
-branding:
+branding:              - nombre: Configurar conexión OpenVPN
+                usos: nanopx/action-ovpn@0.0.9
+            
   color: green
   icon: globe
 inputs:
